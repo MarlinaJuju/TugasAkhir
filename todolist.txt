@@ -33,7 +33,7 @@ Fitur:
 	* Menghapus chat group
 	* Melihat chat group berdasarkan kategori
 	* Search dan sort chat group
-	* Tampilan chat group (chat room) (perlu bisa kirim image dan file?)
+	* Tampilan chat group (chat room) (perlu bisa kirim image dan file? (x))
 	* Tampilan detail chat group (member dan deskripsi)
 	* Notifikasi pesan chat group
 - Mengelola kategori survei
@@ -47,4 +47,4 @@ Fitur:
 	* Menghapus welcome card
 	* Melihat semua welcome card
 	* Menampilkan welcome card secara random
-- Akun punya foto profil
+- Akun punya foto profil (?)
