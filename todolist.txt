@@ -1,0 +1,50 @@
+Fitur:
+- Melakukan vote
+	* tambah UI di ending survei
+- Melihat leaderboard
+	* UI leaderboard berdasarkan kategori
+	* Melihat detail survei di leaderboard
+	* Tampilkan posisi survei di detail
+- Mengelola badges
+	* Membuat badges
+	* Mengubah badges
+	* Menghapus badges
+	* Melihat statistik badges
+	* Menampilkan badges
+	* Galeri badges
+	* Melihat semua badges
+- Mengelola myster box
+	* Membuat mystery box
+	* Mengubah mystery box
+	* Menghapus mystery box
+	* Menampilkan mystery box
+	* Melihat statistik mystery box
+	* Melihat semua mystery box
+- Mengelola event
+	* Membuat event
+	* Mengubah event
+	* Menghapus event
+	* Menampilkan event
+	* Melihat statistik event
+	* Melihat semua event
+- Mengelola chat group
+	* Membuat chat group
+	* Mengubah chat group
+	* Menghapus chat group
+	* Melihat chat group berdasarkan kategori
+	* Search dan sort chat group
+	* Tampilan chat group (chat room) (perlu bisa kirim image dan file?)
+	* Tampilan detail chat group (member dan deskripsi)
+	* Notifikasi pesan chat group
+- Mengelola kategori survei
+	* Membuat kategori survei
+	* Mengubah kategori survei
+	* Menghapus kategori survei
+	* Melihat semua kategori survei
+- Melihat pesan selamat datang
+	* Membuat welcome card
+	* Mengubah welcome card
+	* Menghapus welcome card
+	* Melihat semua welcome card
+	* Menampilkan welcome card secara random
+- Akun punya foto profil
